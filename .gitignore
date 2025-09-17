@@ -1,0 +1,10 @@
+*.png
+*.mat
+*.gz
+*.out
+*.aux
+*.log
+*.pdf
+*.mp4
+*.txt
+**__pycache__/*
