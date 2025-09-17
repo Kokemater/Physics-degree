@@ -2,6 +2,7 @@
 *.mat
 *.gz
 *.out
+*.jpg
 *.aux
 *.log
 *.pdf
