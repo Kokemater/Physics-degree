@@ -9,4 +9,4 @@
 *.mp4
 *.txt
 **__pycache__/*
-**/.vscode
+**.vscode/
